@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "datamola"
+    }
+  },
+  "defaultProject": "datamola",
+  "cli": {
+    "analytics": false
+  }
 }
