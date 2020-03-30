@@ -55,7 +55,7 @@
         <div class="serial__footer">
             <mat-paginator 
               [pageSize]="5" 
-              [pageSizeOptions]="[5, 10, 15, 50]"
+              [pageSizeOptions]="[5, 10, 15, allItems]"
               (page)="setQueryParams($event)">
             </mat-paginator>
         </div>
