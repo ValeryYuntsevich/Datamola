@@ -1,0 +1,29 @@
+.serial { 
+    background: var(--darkgray-bg);
+    height: 100%; 
+  }
+  
+  .serial__header {
+    padding: 1em 1em 0 1em;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .serial__table {
+    height: calc(100% - 112px);
+    overflow-y: scroll;
+  }
+  
+  .serial__footer { height: 56px }
+  
+  table { width: 100% }
+  
+  .td { padding-top: 24px }
+  
+  .container-mat-chip {
+    margin: 0.5em 0;
+    width: 100%;
+  }
+  
+  
