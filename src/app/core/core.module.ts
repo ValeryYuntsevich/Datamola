@@ -1,10 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { SerialsComponent } from './serials/serials.component';
 
 
 
 @NgModule({
-  declarations: [],
+  declarations: [PageNotFoundComponent, SerialsComponent],
   imports: [
     CommonModule
   ]

@@ -1,0 +1,504 @@
+[
+    {
+      "name": "Game of trone",
+      "date": 2011,
+      "season": 1,
+      "network": "HBO",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "House",
+      "date": 2007,
+      "season": 1,
+      "network": "FX",
+      "genres": [
+        "drama",
+        "detective"
+      ]
+    },
+    {
+      "name": "Big Bang Theory",
+      "date": 2009,
+      "season": 1,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Game of trone",
+      "date": 2012,
+      "season": 2,
+      "network": "HBO",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Sherlock",
+      "date": 2011,
+      "season": 2,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "Friends",
+      "date": 2010,
+      "season": 2,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "House",
+      "date": 2008,
+      "season": 2,
+      "network": "FX",
+      "genres": [
+        "drama",
+        "detective"
+      ]
+    },
+    {
+      "name": "Sherlock",
+      "date": 2010,
+      "season": 1,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "Big Bang Theory",
+      "date": 2011,
+      "season": 2,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Game of trone",
+      "date": 2013,
+      "season": 3,
+      "network": "HBO",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Friends",
+      "date": 2008,
+      "season": 1,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "Game of trone",
+      "date": 2019,
+      "season": 5,
+      "network": "HBO",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Sherlock",
+      "date": 2014,
+      "season": 3,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+  
+    {
+      "name": "House",
+      "date": 2010,
+      "season": 3,
+      "network": "FX",
+      "genres": [
+        "drama",
+        "detective"
+      ]
+    },
+    {
+      "name": "Big Bang Theory",
+      "date": 2012,
+      "season": 3,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Game of trone",
+      "date": 2015,
+      "season": 4,
+      "network": "HBO",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Sherlock",
+      "date": 2016,
+      "season": 4,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "Friends",
+      "date": 2018,
+      "season": 4,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "Friends",
+      "date": 2011,
+      "season": 3,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "House",
+      "date": 2015,
+      "season": 4,
+      "network": "FX",
+      "genres": [
+        "drama",
+        "detective"
+      ]
+    },
+    {
+      "name": "Big Bang Theory",
+      "date": 2014,
+      "season": 4,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "thriller"
+      ]
+    },
+    
+    {
+      "name": "Sherlock",
+      "date": 2018,
+      "season": 5,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "Friends",
+      "date": 2018,
+      "season": 5,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "House",
+      "date": 2017,
+      "season": 5,
+      "network": "FX",
+      "genres": [
+        "drama",
+        "detective"
+      ]
+    },
+    {
+      "name": "Big Bang Theory",
+      "date": 2016,
+      "season": 5,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "thriller"
+      ]
+    },
+    {
+      "name": "True Detective",
+      "date": 2014,
+      "season": 1,
+      "network": "HBO",
+      "genres": [
+        "thriller",
+        "drama"
+      ]
+    },
+    {
+      "name": "Lost",
+      "date": 2004,
+      "season": 1,
+      "network": "FX",
+      "genres": [
+        "fantasy",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Chernobyl",
+      "date": 2010,
+      "season": 1,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "Scrubs",
+      "date": 2005,
+      "season": 1,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Walking Dead",
+      "date": 2011,
+      "season": 1,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "True Detective",
+      "date": 2015,
+      "season": 2,
+      "network": "HBO",
+      "genres": [
+        "thriller",
+        "drama"
+      ]
+    },
+    {
+      "name": "Lost",
+      "date": 2005,
+      "season": 2,
+      "network": "FX",
+      "genres": [
+        "fantasy",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Chernobyl",
+      "date": 2012,
+      "season": 2,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "Scrubs",
+      "date": 2008,
+      "season": 2,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Walking Dead",
+      "date": 2013,
+      "season": 2,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "True Detective",
+      "date": 2016,
+      "season": 3,
+      "network": "HBO",
+      "genres": [
+        "thriller",
+        "drama"
+      ]
+    },
+    {
+      "name": "Lost",
+      "date": 2007,
+      "season": 3,
+      "network": "FX",
+      "genres": [
+        "fantasy",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Chernobyl",
+      "date": 2013,
+      "season": 3,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "Scrubs",
+      "date": 2009,
+      "season": 3,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Walking Dead",
+      "date": 2014,
+      "season": 3,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "True Detective",
+      "date": 2017,
+      "season": 4,
+      "network": "HBO",
+      "genres": [
+        "thriller",
+        "drama"
+      ]
+    },
+    {
+      "name": "Lost",
+      "date": 2009,
+      "season": 4,
+      "network": "FX",
+      "genres": [
+        "fantasy",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Chernobyl",
+      "date": 2015,
+      "season": 4,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "Scrubs",
+      "date": 2012,
+      "season": 4,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Walking Dead",
+      "date": 2016,
+      "season": 4,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    },
+    {
+      "name": "True Detective",
+      "date": 2019,
+      "season": 5,
+      "network": "HBO",
+      "genres": [
+        "thriller",
+        "drama"
+      ]
+    },
+    {
+      "name": "Lost",
+      "date": 2012,
+      "season": 5,
+      "network": "FX",
+      "genres": [
+        "fantasy",
+        "thriller"
+      ]
+    },
+    {
+      "name": "Chernobyl",
+      "date": 2017,
+      "season": 5,
+      "network": "Disney",
+      "genres": [
+        "drama",
+        "crime"
+      ]
+    },
+    {
+      "name": "Scrubs",
+      "date": 2018,
+      "season": 5,
+      "network": "AMS",
+      "genres": [
+        "drama",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "Walking Dead",
+      "date": 2019,
+      "season": 5,
+      "network": "Netflix",
+      "genres": [
+        "thriller",
+        "detective"
+      ]
+    }
+  ]
